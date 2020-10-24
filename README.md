@@ -1,3 +1,2 @@
 # Deep-Learning-from-scartch
-
-Hi !
+Here I am using pytorch from scartch to learn deep learning
